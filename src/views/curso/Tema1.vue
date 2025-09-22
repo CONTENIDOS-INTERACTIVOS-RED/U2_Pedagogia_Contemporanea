@@ -186,7 +186,7 @@
             .col-lg-7.order-1.mb-3.mb-lg-0
               p Además, es fundamental enseñar con el ejemplo: usar la tecnología con ética, respetando los datos de los niños, valorando la producción propia, y cultivando una ciudadanía digital crítica desde la primera infancia. Esto significa formar niños y niñas que sepan expresarse con herramientas digitales, pero también que puedan desconectarse, dialogar cara a cara, cuidar su entorno y vivir en equilibrio con lo virtual.
     
-    .bg-full-width.bg-color-3
+    .bg-full-width.bg-color-10
       .p-4.p-md-5.mb-5
         p En educación infantil, el cuerpo, el juego, la naturaleza, el afecto y la palabra siguen siendo insustituibles. La tecnología no puede desplazar estos pilares. Su uso debe ser complementario, nunca excluyente.
         p.mb-5 Por eso, se recomienda:
