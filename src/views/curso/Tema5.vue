@@ -144,28 +144,28 @@ export default {
           {
             id: 1,
             texto:
-              '¿Cuál de las siguientes es una característica fundamental de los derechos humanos?',
+              '¿Cuál de las siguientes opciones NO es un componente central de la innovación educativa?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Son temporales y cambiantes',
+                texto: 'Tecnología',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Son universales y aplican a todas las personas',
+                texto: 'Tradición pedagógica',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Son exclusivos de ciertos grupos',
+                texto: 'Metodología',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Son opcionales',
+                texto: 'Conocimiento',
                 esCorrecta: false,
               },
             ],
@@ -175,28 +175,28 @@ export default {
           {
             id: 2,
             texto:
-              '¿Cuál de las siguientes afirmaciones sobre la diversidad cultural es correcta?',
+              '¿Qué valor promueve la pedagogía crítica en el contexto educativo?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Fomenta la homogeneización cultural',
+                texto: 'Neutralidad política',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Promueve el respeto y la aceptación de las diferencias',
-                esCorrecta: true,
-              },
-              {
-                id: 'c',
-                texto: 'Debilita la identidad cultural de los pueblos',
+                texto: 'Aceptación pasiva',
                 esCorrecta: false,
               },
               {
+                id: 'c',
+                texto: 'Justicia social',
+                esCorrecta: true,
+              },
+              {
                 id: 'd',
-                texto: 'Limita las oportunidades de interacción',
+                texto: 'Memorismo',
                 esCorrecta: false,
               },
             ],
@@ -206,28 +206,28 @@ export default {
           {
             id: 3,
             texto:
-              'La mediación en un conflicto tiene como objetivo principal:',
+              'Si una docente rediseña el currículo incluyendo metodologías activas, actividades al aire libre y reflexión crítica, ¿qué modelo está aplicando?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Imponer una solución rápida',
+                texto: 'Tradicional',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Facilitar el diálogo entre las partes',
+                texto: 'Ecopedagogía',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Determinar la culpabilidad',
+                texto: 'Bancario',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Ignorar las preocupaciones de una parte',
+                texto: 'Conductista',
                 esCorrecta: false,
               },
             ],
@@ -236,28 +236,29 @@ export default {
           },
           {
             id: 4,
-            texto: 'En un foro comunitario, es importante:',
+            texto:
+              '¿Cuál de estos desafíos enfrenta la innovación educativa en contextos escolares reales?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Escuchar solo a las autoridades',
+                texto: 'Motivación intrínseca de los estudiantes',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Fomentar la participación de todos los miembros',
-                esCorrecta: true,
-              },
-              {
-                id: 'c',
-                texto: 'Decidir por votación sin consultar a los demás',
+                texto: 'Apoyo institucional continuo',
                 esCorrecta: false,
               },
               {
+                id: 'c',
+                texto: 'Resistencia al cambio por parte de algunos docentes',
+                esCorrecta: true,
+              },
+              {
                 id: 'd',
-                texto: 'Excluir las opiniones de los más jóvenes',
+                texto: 'Uso de tecnologías emergentes',
                 esCorrecta: false,
               },
             ],
@@ -267,28 +268,28 @@ export default {
           {
             id: 5,
             texto:
-              '¿Qué busca la justicia restaurativa en el contexto de un conflicto?',
+              'Si una maestra incorpora debates sobre sostenibilidad y cambios climáticos en sus clases, está aplicando:',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Aplicar una sanción severa',
+                texto: '<em>Homeschool</em>',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Reparar el daño y restablecer las relaciones',
-                esCorrecta: true,
+                texto: 'Aprendizaje memorístico',
+                esCorrecta: false,
               },
               {
                 id: 'c',
-                texto: 'Castigar a las partes involucradas',
+                texto: 'Ecopedagogía',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Ignorar el contexto del conflicto',
+                texto: 'Aprendizaje técnico',
                 esCorrecta: false,
               },
             ],
