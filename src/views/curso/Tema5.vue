@@ -285,7 +285,7 @@ export default {
               {
                 id: 'c',
                 texto: 'Ecopedagogía',
-                esCorrecta: false,
+                esCorrecta: true,
               },
               {
                 id: 'd',
